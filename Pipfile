@@ -10,6 +10,7 @@ django = "*"
 djangorestframework = "*"
 django-rest-swagger = "*"
 coreapi = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
